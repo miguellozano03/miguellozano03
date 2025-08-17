@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Miguel Lozano,
 
-<!--
-**miguellozano03/miguellozano03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Analisis and Development software Student of Natioanl Service Training (SENA) and I interested in full stack development as professional career and data analysis as hobbie.
+- 🔭 I’m currently studying:
+	- Back-end Development 
+	- Front-end Development 
+- 💬 Talk to me about gym, boxing, videogames, anything that interests you.
 
-Here are some ideas to get you started:
+## My Skills Include
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
