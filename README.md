@@ -25,8 +25,6 @@ I'm a Analisis and Development software Student of Natioanl Service Training (SE
 <span>
 	<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 	<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
- 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  	<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </span>
 
 <h4> Databases </h4>
