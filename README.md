@@ -1,14 +1,13 @@
-### Hi there 👋 I'm Miguel Lozano,
+### Hi, I'm Miguel Lozano 👋
 
-I'm a Analisis and Development software Student of Natioanl Service Training (SENA) and I interested in full stack development as professional career and data analysis as hobbie.
+Full Stack Developer with hands-on experience in B2B and SaaS environments. I build scalable backend systems and full-stack web applications, and I'm currently completing a Software Analysis and Development degree at SENA (Colombia).
 
-- 🔭 I’m currently studying:
-	- Back-end 
-	- Front-end
-   
-- 💬 Talk to me about gym, boxing, videogames, anything that interests you.
+- 💻 Experience across Python (FastAPI, Django) and JavaScript (Node.js, Next.js, Express, AdonisJS) ecosystems
+- 🛠️ Focused on backend architecture, API design, authentication systems, and database design
+- 💼 Available for freelance full-stack development work
+- 📫 **miguel.lozano.vergara@gmail.com** · [LinkedIn](https://www.linkedin.com/in/lozano-miguel)
 
-
+---
 
 ## My Skills Include
 
